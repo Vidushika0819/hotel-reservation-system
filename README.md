@@ -1,4 +1,4 @@
-# Hotel Reservation System
+# 🏨 Hotel Reservation System
 
 **A web-based Hotel Reservation Management System built with PHP and MySQL.**  
 This project includes user reservation booking, admin management, venue handling, payment simulation, and full CRUD operations for users, venues, and reservations.
