@@ -46,6 +46,7 @@ This project includes user reservation booking, admin management, venue handling
 ---
 
 ## 📁 Project structure
+```
 hotel-reservation-system/
 ├─ src/ # PHP pages and server logic (user, admin pages)
 ├─ assets/
@@ -54,13 +55,7 @@ hotel-reservation-system/
 ├─ database/
 │ └─ hotel_reservation.sql
 └─ README.md
-
-
----
-
-## 🖼 Screenshots
-_Add screenshots inside `assets/images/screenshots/` and reference them here._
-
+```
 ---
 
 ## ✅ Notes & tips
@@ -72,7 +67,7 @@ _Add screenshots inside `assets/images/screenshots/` and reference them here._
 
 ## 📞 Contact
 Vidushika Madhushani — Vidushika0819 on GitHub  
-Email: [your-email@example.com] (optional)
+Email: [withanagevidhu@gmail.com]
 
 ---
 
